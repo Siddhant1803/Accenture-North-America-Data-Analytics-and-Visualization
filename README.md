@@ -1,4 +1,4 @@
-# Accenture North America Data Analytics and Visualization
+# Accenture North America Data Analytics and Visualization using Excel
 
 ![image](https://github.com/Siddhant1803/Accenture-North-America-Data-Analytics-and-Visualization/assets/127285389/80ca8a3c-02c0-4c1a-807b-b4c1b20ba8fa)
 ![image](https://github.com/Siddhant1803/Accenture-North-America-Data-Analytics-and-Visualization/assets/127285389/d401a7c2-8800-4052-bddf-1ef031d1b99c)
